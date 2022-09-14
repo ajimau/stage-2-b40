@@ -59,6 +59,7 @@ section {
 .left {
     flex: 60%;
     margin: 20px 50px;
+    align-items: center;
 }
 
 .ctc {
