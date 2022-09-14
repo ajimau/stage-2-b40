@@ -54,12 +54,12 @@ section {
     display: flex;
     width: 80%;
     background-color: white;
+    align-items: center;
 }
 
 .left {
     flex: 60%;
     margin: 20px 50px;
-    align-items: center;
 }
 
 .ctc {
